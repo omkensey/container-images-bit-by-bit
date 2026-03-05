@@ -227,7 +227,7 @@ If you're feeling curious, run the lab Terraform config again (or for the first 
 
 ### Links to tools:
 
-[Podman](https://podman.io/) and [Buildah](https://buildah.io/)
-[Packer](https://developer.hashicorp.com/packer)
-[Buildroot](https://buildroot.org/)
+* [Podman](https://podman.io/) and [Buildah](https://buildah.io/)
+* [Packer](https://developer.hashicorp.com/packer)
+* [Buildroot](https://buildroot.org/)
 
